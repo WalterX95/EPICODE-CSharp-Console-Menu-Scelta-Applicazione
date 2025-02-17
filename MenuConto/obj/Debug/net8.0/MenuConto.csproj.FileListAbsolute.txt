@@ -1,0 +1,14 @@
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\bin\Debug\net8.0\MenuConto.exe
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\bin\Debug\net8.0\MenuConto.deps.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\bin\Debug\net8.0\MenuConto.runtimeconfig.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\bin\Debug\net8.0\MenuConto.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\bin\Debug\net8.0\MenuConto.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.AssemblyInfoInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.AssemblyInfo.cs
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.csproj.CoreCompileInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\refint\MenuConto.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\MenuConto.genruntimeconfig.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioQuintaLezione\MenuConto\MenuConto\obj\Debug\net8.0\ref\MenuConto.dll

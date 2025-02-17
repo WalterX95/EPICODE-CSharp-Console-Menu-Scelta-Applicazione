@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using MenuConto.Models;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-MenuData menu = new MenuData(); // Crea un'istanza della classe MenuData
-List<int> scelte = new List<int>(); // Memorizza gli indici dei prodotti scelti
+MenuData menu = new MenuData(); // Inizializza il menu con prezzi e prodotti
+List<int> scelte = new List<int>(); // Lista per memorizzare i prodotti scelti
+
 bool ciclo = true;
 
 while (ciclo)
@@ -35,8 +37,7 @@ while (ciclo)
         }
         else if (sceltaNumero == 11)
         {
-            // Stampiamo il conto totale
-            decimal totale = menu.SumAllMenuPrice(scelte, "n");
+            decimal totale = menu.SumAllMenuPrice(scelte);
             Console.WriteLine($"\nTotale da pagare: € {totale:F2}");
             ciclo = false; // Termina il ciclo
         }
